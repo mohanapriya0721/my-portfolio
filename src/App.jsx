@@ -12,7 +12,6 @@ function App() {
 
   return (
     <>
-    <p>helldfeo</p>
        <Header /> 
        <Hero />
        <About />
