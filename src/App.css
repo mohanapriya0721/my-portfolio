@@ -1,0 +1,18 @@
+@import "tailwindcss";
+*{
+    width:full;
+    height:auto;
+}
+header ul li{
+    @apply px-2;
+}
+.mobile-nav{
+    @apply fixed top-12 left-0 w-full h-1/4 ;
+    background-color:#000000;
+}
+.mobile-nav li{
+    @apply w-full h-full text-center border-b-1;
+}
+html{
+    scroll-behavior: smooth;
+}
