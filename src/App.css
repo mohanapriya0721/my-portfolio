@@ -1,8 +1,8 @@
 @import "tailwindcss";
-*{
+/* *{
     width:full;
     height:auto;
-}
+} */
 header ul li{
     @apply px-2;
 }
